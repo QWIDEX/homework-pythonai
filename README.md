@@ -45,7 +45,6 @@
 ```
 .
 ├── app.py               # Streamlit-застосунок (Варіант A)
-├── main.py              # Консольний скрипт   (Варіант B)
 ├── weather_daily.csv    # Датасет щоденних метеоданих
 ├── requirements.txt     # Python-залежності
 └── README.md            # Цей файл
